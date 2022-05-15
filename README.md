@@ -1,1 +1,1 @@
-# HealthCareNLPClass
+# HealthCareNLPCourse
